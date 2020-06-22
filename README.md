@@ -17,3 +17,6 @@ Application of Exploratory Data Analysis library "sweetviz" to get rapid EDA res
 
 Processing and Visualization of Predicted Sales Data (Analytics Vidhya Data)
 
+### 5) EDA | Cereal.csv
+
+The cereal dataset was obtained from Kaggle.com and one step and simple exploratory data analysis was performed using sweetviz library of python.
